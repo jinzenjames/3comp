@@ -7,6 +7,8 @@ Dependency injection (DI) is the part of the Angular framework that provides com
 
 This is a single page application. In this project we have 3 different components which share a common service, which displays an alert message when the button is clicked from respective components.
 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
