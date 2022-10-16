@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    float: left;
+    background-color: aliceblue;
+    width: 33.3333%;
+    height: 950px;
+    overflow: hidden;
+
+}
+
+h1 {
+    display: inline;
+}
+
+img {
+    height: 450px;
+    width: 450px;
+    border-radius: 100%;
+    margin-left: 120px;
+}
+
+#but{
+    margin-top: 20px;
+    margin-left: 240px;
+    background-color: orange;
+    color: black;
+    height: 40px;
+    width: 200px;
+border: none;
+border-radius: 5px;
+}
+
+.bottom-text{
+    color: orange;
+
+}
